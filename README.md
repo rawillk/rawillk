@@ -13,7 +13,7 @@ I'm an experienced Swift developer, passionate about building innovative iOS app
 
 - 🔭 I’m currently working on @partofinc
 - 📫 Telegram: [**@rawillk**](https://t.me/rawillk), email: **ravil@partof.team**
-- ⚡ Fun fact: I am Jiu-Jitsu  belt
+- ⚡ Fun fact: I am Jiu-Jitsu purple belt 🥋💜
 
 ## 🛠 Skills
 
